@@ -6,4 +6,4 @@ The src/AverageDegree folder includes the whole java project;
 The src/AverageDegree/src folder contains all my Java program;
 The main entry of my program is in src/AverageDegree/src/average_degree.java;
 # External library 
-gson-2.6.2.jar ,which is put in src/AverageDegree/lib folder.
+gson-2.6.2.jar ,which is put in src/AverageDegree/lib folder, is used to parse JSON object from String.
